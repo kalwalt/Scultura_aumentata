@@ -1,0 +1,3 @@
+ofxARToolkitPlus
+ofxAssimpModelLoader
+ofxOpenCv
